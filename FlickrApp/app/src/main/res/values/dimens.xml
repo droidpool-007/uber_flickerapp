@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">4dp</dimen>
+    <dimen name="padding">4dp</dimen>
+
+    <dimen name="photo_title_textsize">10sp</dimen>
+    <dimen name="search_textsize">16sp</dimen>
+    <dimen name="button_textsize">14sp</dimen>
+
+    <dimen name="item_offset">4dp</dimen>
+
+    <integer name="no_of_grids">3</integer>
+</resources>

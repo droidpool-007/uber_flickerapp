@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlickrApp</string>
+    <string name="search_hint">Search here (e.g: kittens)</string>
+    <string name="go">search</string>
+    <string name="network_error">Oops! Seems you are currently offline</string>
+    <string name="api_fired_message">Please wait while we fetch photos</string>
+    <string name="flickr_photo_json_url">https://api.flickr.com/services/rest/?method=flickr.photos.search&amp;api_key=3e7cc266ae2b0e0d78e279ce8e361736&amp;format=json&amp;nojsoncallback=1&amp;safe_search=1&amp;text=%1$s"</string>
+    <string name="flickr_image_url">http://farm%1$d.static.flickr.com/%2$s/%3$s_%4$s.jpg</string>
+</resources>
